@@ -12,3 +12,5 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro -- --help`         | Get help using the Astro CLI                     |
 | `npm run build && npm run deploy` | Deploy your production site to Cloudflare        |
 | `npm wrangler tail`               | View real-time logs for all Workers              |
+
+
